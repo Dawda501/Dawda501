@@ -18,17 +18,24 @@ I am a full Stack Developer Based in Accra, Ghana. I am currently learning MCP s
 - Writing integration/unit tests for business logic
 
 
-## Tech Stack
-
+## Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B)
+
+## Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=fff)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=fff)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=fff)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=fff)
 
+
+
+## Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=fff)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=fff)
+
+## Expertise
 ![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
 ![Responsive UI/UX](https://img.shields.io/badge/Responsive_UI/UX-38B2AC?style=for-the-badge)
 ![Payment Integration](https://img.shields.io/badge/Payment_Gateway_Integration-00A86B?style=for-the-badge)
@@ -36,6 +43,9 @@ I am a full Stack Developer Based in Accra, Ghana. I am currently learning MCP s
 ![Prompt Design](https://img.shields.io/badge/Prompt_Design-6A5ACD?style=for-the-badge)
 ![Unit Testing](https://img.shields.io/badge/Unit_Testing-25A162?style=for-the-badge)
 ![Integration Testing](https://img.shields.io/badge/Integration_Testing-FF6F00?style=for-the-badge)
+
+
+
 
 ## Projects
 - Autofixgh (https://autofixgh.onrender.com) - A MERN stack platform connecting drivers with mechanics in real-time. Built for the Ghanaian market.
