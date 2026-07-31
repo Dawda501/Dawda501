@@ -1,16 +1,27 @@
-## Hi there 👋
 
-<!--
-**Dawda501/Dawda501** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Dawda 👋
 
-Here are some ideas to get you started:
+I am a full Stack Developer Based in Accra, Ghana. I am currently learning Machine Learning and Computer Vision. I build web applications with React, Typescript, Node.js, Python and more.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- JavaScript
+- TypeScript
+- React
+- RESTful API design
+- Responsive UI/UX with Tailwind CSS
+- Node.js
+- Python
+- PostgreSQL
+- Express.js
+- Payment gateway integration patterns
+- Prompt design and API integration for LLM-based features
+- Writing integration/unit tests for business logic
+- 
+
+## Projects
+- Autofixgh (https://autofixgh.onrender.com) - A MERN stack platform connecting drivers with mechanics in real-time. Built for the Ghanaian market.
+- POAD (https://poad.africa) - 
+
+## Contact
+- LinkedIn: https://linkedin.com/in/dawda-haruna-b94784158
+- Email: dawdaharuna501@email.com
