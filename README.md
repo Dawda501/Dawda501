@@ -1,7 +1,7 @@
 
 # Hi, I'm Dawda 👋
 
-I am a full Stack Developer Based in Accra, Ghana. I am currently learning Machine Learning and Computer Vision. I build web applications with React, Typescript, Node.js, Python and more.
+I am a full Stack Developer Based in Accra, Ghana. I am currently learning MCP server development. I build web applications with React, Typescript, Node.js, Python and more.
 
 ## Skills
 - JavaScript
@@ -16,7 +16,6 @@ I am a full Stack Developer Based in Accra, Ghana. I am currently learning Machi
 - Payment gateway integration patterns
 - Prompt design and API integration for LLM-based features
 - Writing integration/unit tests for business logic
-- 
 
 ## Projects
 - Autofixgh (https://autofixgh.onrender.com) - A MERN stack platform connecting drivers with mechanics in real-time. Built for the Ghanaian market.
