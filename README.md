@@ -4,31 +4,47 @@
 I am a full Stack Developer Based in Accra, Ghana. I am currently learning MCP server development. I build web applications with React, Typescript, Node.js, Python and more.
 
 ## Skills
-- JavaScript
-- TypeScript
-- React
-- RESTful API design
-- Responsive UI/UX with Tailwind CSS
-- Node.js
-- Python
-- PostgreSQL
-- Express.js
-- Payment gateway integration patterns
-- Prompt design and API integration for LLM-based features
-- Writing integration/unit tests for business logic
+Languages
+• JavaScript
+• TypeScript
+• Python
+• Java
+
+Frameworks & Libraries
+• React
+• Node.js
+• Express.js
+• Tailwind CSS
+
+Databases
+• PostgreSQL
+• MongoDB
+
+Backend & APIs
+• RESTful API Design
+• Payment Gateway Integration
+• LLM API Integration
+• Prompt Design
+
+Testing
+• Unit Testing
+• Integration Testing
+
+Frontend
+• Responsive UI/UX
 
 
 ## Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=fff)
 
 ## Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=fff)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=fff)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=fff)
-
 
 
 ## Databases
