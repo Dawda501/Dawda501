@@ -31,7 +31,7 @@ Testing
 - Integration Testing
 
 Frontend
-= Responsive UI/UX
+- Responsive UI/UX
 
 
 ## Languages
