@@ -1,37 +1,37 @@
 
-# Hi, I'm Dawda 👋
+# Hi, My name is Dawda.
 
 I am a full Stack Developer Based in Accra, Ghana. I am currently learning MCP server development. I build web applications with React, Typescript, Node.js, Python and more.
 
 ## Skills
 Languages
-• JavaScript
-• TypeScript
-• Python
-• Java
+- JavaScript
+- TypeScript
+- Python
+- Java
 
 Frameworks & Libraries
-• React
-• Node.js
-• Express.js
-• Tailwind CSS
+- React
+- Node.js
+- Express.js
+- Tailwind CSS
 
 Databases
-• PostgreSQL
-• MongoDB
+- PostgreSQL
+- MongoDB
 
 Backend & APIs
-• RESTful API Design
-• Payment Gateway Integration
-• LLM API Integration
-• Prompt Design
+- RESTful API Design
+- Payment Gateway Integration
+- LLM API Integration
+- Prompt Design
 
 Testing
-• Unit Testing
-• Integration Testing
+- Unit Testing
+- Integration Testing
 
 Frontend
-• Responsive UI/UX
+= Responsive UI/UX
 
 
 ## Languages
