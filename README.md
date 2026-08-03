@@ -3,38 +3,7 @@
 
 I am a full Stack Developer Based in Accra, Ghana. I am currently learning MCP server development. I build web applications with React, Typescript, Node.js, Python and more.
 
-## Skills
-Languages
-- JavaScript
-- TypeScript
-- Python
-- Java
-
-Frameworks & Libraries
-- React
-- Node.js
-- Express.js
-- Tailwind CSS
-
-Databases
-- PostgreSQL
-- MongoDB
-
-Backend & APIs
-- RESTful API Design
-- Payment Gateway Integration
-- LLM API Integration
-- Prompt Design
-
-Testing
-- Unit Testing
-- Integration Testing
-
-Frontend
-- Responsive UI/UX
-
-
-## Languages
+## Skills and Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B)
@@ -59,7 +28,7 @@ Frontend
 ![Prompt Design](https://img.shields.io/badge/Prompt_Design-6A5ACD?style=for-the-badge)
 ![Unit Testing](https://img.shields.io/badge/Unit_Testing-25A162?style=for-the-badge)
 ![Integration Testing](https://img.shields.io/badge/Integration_Testing-FF6F00?style=for-the-badge)
-
+![Responsive UI/UX](https://img.shields.io/badge/Responsive-UI%2FUX-6C63FF?style=for-the-badge&logo=figma&logoColor=white)
 
 
 
