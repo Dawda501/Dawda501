@@ -35,6 +35,7 @@ I am a full Stack Developer Based in Accra, Ghana. I am currently learning MCP s
 ## Projects
 - Autofixgh (https://autofixgh.onrender.com) - A MERN stack platform connecting drivers with mechanics in real-time. Built for the Ghanaian market.
 - People Of African Descent - POAD (https://poad.africa) - A vibrant digital platform for people of African descent. To help them connect, share stories, celebrate culture, discover opportunities, and build lasting relationships.
+- Orator AI (https://oratorai.onrender.com) - A comprehensive MERN stack application providing AI-powered speech therapy to help individuals overcome stuttering and other speech impediments.
 
 ## Contact
 - LinkedIn: https://linkedin.com/in/dawda-haruna-b94784158
