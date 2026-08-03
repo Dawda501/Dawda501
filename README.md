@@ -1,5 +1,5 @@
 
-# Hi, My name is Dawda.
+# Hello there, My name is Dawda.
 
 I am a full Stack Developer Based in Accra, Ghana. I am currently learning MCP server development. I build web applications with React, Typescript, Node.js, Python and more.
 
