@@ -36,6 +36,7 @@ I am a full Stack Developer Based in Accra, Ghana. I am currently learning MCP s
 - Autofixgh (https://autofixgh.onrender.com) - A MERN stack platform connecting drivers with mechanics in real-time. Built for the Ghanaian market.
 - People Of African Descent - POAD (https://poad.africa) - A vibrant digital platform for people of African descent. To help them connect, share stories, celebrate culture, discover opportunities, and build lasting relationships.
 - Orator AI (https://orator-ai.onrender.com) - A comprehensive MERN stack application providing AI-powered speech therapy to help individuals overcome stuttering and other speech impediments.
+- Charisword Control Center (https://chariswordoneplace.org) - A comprehensive church management system built for Charis Word Gospel Ministry. This full-stack MERN application provides tools for managing attendance, events, finances, inventory, notifications, polls, reports, as well as an AI assistant and more - all with role-based access control.
 
 ## Contact
 - LinkedIn: https://linkedin.com/in/dawda-haruna-b94784158
